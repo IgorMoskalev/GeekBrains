@@ -1,0 +1,15 @@
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\bin\Debug\net7.0\GitHub для сдачи ДЗ.exe
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\bin\Debug\net7.0\GitHub для сдачи ДЗ.deps.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\bin\Debug\net7.0\GitHub для сдачи ДЗ.runtimeconfig.json
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\bin\Debug\net7.0\GitHub для сдачи ДЗ.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\bin\Debug\net7.0\GitHub для сдачи ДЗ.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\obj\Debug\net7.0\GitHub для сдачи ДЗ.csproj.AssemblyReference.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\obj\Debug\net7.0\GitHub для сдачи ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\obj\Debug\net7.0\GitHub для сдачи ДЗ.AssemblyInfoInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\obj\Debug\net7.0\GitHub для сдачи ДЗ.AssemblyInfo.cs
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\obj\Debug\net7.0\GitHub для сдачи ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\obj\Debug\net7.0\GitHub для сдачи ДЗ.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\obj\Debug\net7.0\refint\GitHub для сдачи ДЗ.dll
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\obj\Debug\net7.0\GitHub для сдачи ДЗ.pdb
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\obj\Debug\net7.0\GitHub для сдачи ДЗ.genruntimeconfig.cache
+C:\Users\Игорь\OneDrive\Рабочий стол\GB Разработчик\GitHub для сдачи ДЗ\obj\Debug\net7.0\ref\GitHub для сдачи ДЗ.dll
